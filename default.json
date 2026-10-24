@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Global Renovate preset for lioramilbaum repositories: group all dependency updates into a single PR.",
+  "extends": [
+    "config:recommended",
+    "group:all"
+  ]
+}
