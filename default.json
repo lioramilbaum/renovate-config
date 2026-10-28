@@ -4,5 +4,6 @@
   "extends": [
     "config:recommended",
     "group:all"
-  ]
+  ],
+  "schedule": ["before 9am on Sunday"]
 }
